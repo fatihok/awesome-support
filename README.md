@@ -12,3 +12,4 @@ Amazing tools and resources for support engineers and customer support represent
 - [Service Cloud](https://www.salesforce.com/solutions/small-business-solutions/keep-customers/) - Customer service software and support application by Salesforce.
 - [Groove](https://www.groovehq.com/) - Customer service tool with shared inbox and built-in knowledge base.
 ## Utilities
+- [TextExpander](https://textexpander.com/) - Insert text snippets easily using a quick search or abbreviation.
