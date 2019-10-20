@@ -13,4 +13,5 @@ Amazing tools and resources for support engineers and customer support represent
 - [Groove](https://www.groovehq.com/) - Customer service tool with shared inbox and built-in knowledge base.
 ## Utilities
 - [TextExpander](https://textexpander.com/) - Insert text snippets easily using a quick search or abbreviation.
-- [Translate Tab](https://apps.apple.com/us/app/translate-tab/id458887729) - Easy to use translator application for quick translation between 100+ languages.
+- [Translate Tab](https://apps.apple.com/us/app/translate-tab/id458887729) - Easy to use macOS application for quick translation between 100+ languages.
+- [Google Translate for Chrome](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - View translations easily as you browse the web.
