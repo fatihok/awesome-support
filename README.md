@@ -3,6 +3,7 @@ Amazing tools and resources for support engineers and customer support represent
 ## Contents
 - [Platforms](#platforms)
 - [Utilities](#utilities)
+- [Readings](#readings)
 ## Platforms
 - [Zendesk](https://www.zendesk.com/) - Support ticketing and customer service software.
 - [Intercom](https://www.intercom.com/) - Customer messaging platform with knowledge base and chatbot solutions.
