@@ -1,5 +1,5 @@
 # Awesome Support 🦸‍♂️
-Amazing tools and resources for support engineers and customer support representatives.
+Amazing tools and resources for support engineers and customer support representatives. Feel free to open an [issue](https://github.com/fatihok/awesome-support/issues) or create [pull request](https://github.com/fatihok/awesome-support/pulls) to contribute.
 ## Contents
 - [Platforms](#platforms)
 - [Utilities](#utilities)
