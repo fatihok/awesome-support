@@ -18,6 +18,7 @@ Amazing tools and resources for support engineers and customer support represent
 - [Translate Tab](https://apps.apple.com/us/app/translate-tab/id458887729) - Easy to use macOS application for quick translation between 100+ languages.
 - [Google Translate for Chrome](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb) - View translations easily as you browse the web.
 - [Grammarly](https://www.grammarly.com) - Writing app to make your messages clear, mistake-free, and effective.
+- [Gifox](https://gifox.io) - A Mac app for GIF recording and sharing
 ## Readings
 - [Writing for Beginners](https://www.nicolefenton.com/writing-for-beginners), *Nicole Fenton*
 - [Voice and Tone](https://styleguide.mailchimp.com/voice-and-tone), *Mailchimp*
