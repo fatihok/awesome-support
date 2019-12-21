@@ -13,7 +13,7 @@ Amazing tools and resources for support engineers and customer support represent
 - [Service Cloud](https://www.salesforce.com/solutions/small-business-solutions/keep-customers) - Customer service software and support application by Salesforce.
 - [Groove](https://www.groovehq.com) - Customer service tool with shared inbox and built-in knowledge base.
 - [Front](https://frontapp.com) - Shared inbox for teams unifying different communication channels into one place.
-- [GitBook](https://www.gitbook.com) - Platform to document everything from products to internal knowledge-bases and APIs.
+- [GitBook](https://www.gitbook.com) - Documentation platform to document everything from products to internal knowledge-bases and APIs.
 ## Utilities
 - [TextExpander](https://textexpander.com) - Insert text snippets easily using a quick search or abbreviation.
 - [Translate Tab](https://apps.apple.com/us/app/translate-tab/id458887729) - Easy to use macOS application for quick translation between 100+ languages.
