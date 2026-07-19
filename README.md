@@ -25,3 +25,4 @@ Amazing tools and resources for support engineers and customer support represent
 - [Voice and Tone](https://styleguide.mailchimp.com/voice-and-tone), *Mailchimp*
 - [What Voice and Tone Sounds Like in Practice: Inside the Buffer Content Style Guide](https://open.buffer.com/style-guide), *Kevan Lee*
 - [How to Handle Customer Support During Company-Wide Events](https://www.helpscout.com/helpu/support-during-company-events), Mathew Patterson
+- [Help Desk Software Migration Data 2026: Switching Costs, Timelines, and Hidden Fees by Vendor](https://commsadvisor.com/helpdesk-migration-data-2026/), *CommsAdvisor*
