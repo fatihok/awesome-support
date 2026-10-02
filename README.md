@@ -14,6 +14,7 @@ Amazing tools and resources for support engineers and customer support represent
 - [Groove](https://www.groovehq.com) - Customer service tool with shared inbox and built-in knowledge base.
 - [Front](https://frontapp.com) - Shared inbox for teams unifying different communication channels into one place.
 - [GitBook](https://www.gitbook.com) - Documentation platform to document everything from products to internal knowledge-bases and APIs.
+- [Communicate](https://communicate.so/) - AI customer support with a knowledge-grounded website chat widget, shared inbox, and human handoff.
 ## Utilities
 - [TextExpander](https://textexpander.com) - Insert text snippets easily using a quick search or abbreviation.
 - [Translate Tab](https://apps.apple.com/us/app/translate-tab/id458887729) - Easy to use macOS application for quick translation between 100+ languages.
