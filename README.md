@@ -24,4 +24,6 @@ Amazing tools and resources for support engineers and customer support represent
 - [Writing for Beginners](https://www.nicolefenton.com/writing-for-beginners), *Nicole Fenton*
 - [Voice and Tone](https://styleguide.mailchimp.com/voice-and-tone), *Mailchimp*
 - [What Voice and Tone Sounds Like in Practice: Inside the Buffer Content Style Guide](https://open.buffer.com/style-guide), *Kevan Lee*
+- [AI Customer Service Agent Guide](https://aicustomerserviceagentguide.com) - A buying guide to AI support agents: what each helpdesk charges per resolution and per seat, and where a person approves a reply before it goes out.
+
 - [How to Handle Customer Support During Company-Wide Events](https://www.helpscout.com/helpu/support-during-company-events), Mathew Patterson
